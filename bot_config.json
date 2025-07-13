@@ -1,0 +1,16 @@
+{
+  "auto_join_rooms": [
+    "life",
+    "boys",
+    "\ud83c\udfcfatlanta\ud83c\udfcf"
+  ],
+  "welcome_mode": "off",
+  "welcome_message": "Welcome, @{username}! \ud83d\udc96",
+  "games_enabled": {
+    "duel": false
+  },
+  "entry_image_enabled": "on",
+  "entry_image_urls": [
+    "https://i.ibb.co/KxcDN2f0/enisa.jpg"
+  ]
+}
